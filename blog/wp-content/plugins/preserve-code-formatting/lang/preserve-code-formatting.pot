@@ -1,0 +1,178 @@
+# Translation of the WordPress plugin Preserve Code Formatting v3.2 by Scott Reilly.
+# Copyright (C) 2011 Scott Reilly
+# This file is distributed under the same license as the Preserve Code Formatting plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Preserve Code Formatting 3.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/preserve-code-formatting\n"
+"POT-Creation-Date: 2011-12-14 19:43:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: c2c-plugin.php:76
+msgid "Invalid file specified for C2C_Plugin: %s"
+msgstr ""
+
+#: c2c-plugin.php:292
+msgid "See the \"Help\" link to the top-right of the page for more help."
+msgstr ""
+
+#: c2c-plugin.php:325
+msgid "Settings reset."
+msgstr ""
+
+#: c2c-plugin.php:336 c2c-plugin.php:344
+msgid "A value is required for: \"%s\""
+msgstr ""
+
+#: c2c-plugin.php:353
+msgid "Expected integer value for: %s"
+msgstr ""
+
+#: c2c-plugin.php:464
+msgid "More information about %1$s %2$s"
+msgstr ""
+
+#: c2c-plugin.php:465
+msgid "Click for more help on this plugin"
+msgstr ""
+
+#: c2c-plugin.php:466
+msgid " (especially check out the \"Other Notes\" tab, if present)"
+msgstr ""
+
+#: c2c-plugin.php:555
+msgid "Settings"
+msgstr ""
+
+#: c2c-plugin.php:567
+msgid "Donation for coffee2code plugin: %s"
+msgstr ""
+
+#: c2c-plugin.php:568
+msgid "Coffee fuels my coding."
+msgstr ""
+
+#: c2c-plugin.php:806
+msgid "A plugin by coffee2code"
+msgstr ""
+
+#: c2c-plugin.php:815
+msgid "Save Changes"
+msgstr ""
+
+#: c2c-plugin.php:816
+msgid "Reset Settings"
+msgstr ""
+
+#: c2c-plugin.php:822
+msgid "Scott Reilly, aka coffee2code"
+msgstr ""
+
+#: c2c-plugin.php:823
+msgid "This plugin brought to you by %s."
+msgstr ""
+
+#: c2c-plugin.php:824
+msgid "Please consider a donation"
+msgstr ""
+
+#: c2c-plugin.php:825
+msgid "Did you find this plugin useful?"
+msgstr ""
+
+#. #-#-#-#-#  preserve-code-formatting.pot (Preserve Code Formatting 3.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: preserve-code-formatting.php:99
+msgid "Preserve Code Formatting"
+msgstr ""
+
+#: preserve-code-formatting.php:100
+msgid "Code Formatting"
+msgstr ""
+
+#: preserve-code-formatting.php:105
+msgid "Tags that will have their contents preserved"
+msgstr ""
+
+#: preserve-code-formatting.php:106
+msgid "Space and/or comma-separated list of HTML tag names."
+msgstr ""
+
+#: preserve-code-formatting.php:108
+msgid "Preserve code in comments?"
+msgstr ""
+
+#: preserve-code-formatting.php:109
+msgid "Preserve code posted by visitors in comments?"
+msgstr ""
+
+#: preserve-code-formatting.php:111
+msgid "Wrap multiline code in <code>&lt;pre></code> tag?"
+msgstr ""
+
+#: preserve-code-formatting.php:112
+msgid "&lt;pre> helps to preserve whitespace"
+msgstr ""
+
+#: preserve-code-formatting.php:114
+msgid "Use <code>&amp;nbsp;</code> for spaces?"
+msgstr ""
+
+#: preserve-code-formatting.php:115
+msgid ""
+"Not necessary if you are wrapping code in <code>&lt;pre></code> or you use "
+"CSS to define whitespace:pre; for code tags."
+msgstr ""
+
+#: preserve-code-formatting.php:117
+msgid "Convert newlines to <code>&lt;br/></code>?"
+msgstr ""
+
+#: preserve-code-formatting.php:118
+msgid ""
+"Depending on your CSS styling, you may need this.  Otherwise, code may "
+"appear double-spaced."
+msgstr ""
+
+#: preserve-code-formatting.php:155
+msgid "Preserve Code Formatting Settings"
+msgstr ""
+
+#: preserve-code-formatting.php:156
+msgid ""
+"Preserve formatting for text within &lt;code> and &lt;pre> tags (other tags "
+"can be defined as well). Helps to preserve code indentation, multiple "
+"spaces, prevents WP's fancification of text (ie. ensures quotes don't become "
+"curly, etc)."
+msgstr ""
+
+#: preserve-code-formatting.php:157
+msgid ""
+"NOTE: Use of the visual text editor will pose problems as it can mangle your "
+"intent in terms of &lt;code> tags. I do not offer any support for those who "
+"have the visual editor active."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://coffee2code.com/wp-plugins/preserve-code-formatting/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Preserve formatting of code for display by preventing its modification by "
+"WordPress and other plugins while retaining original whitespace and "
+"characters."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Scott Reilly"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://coffee2code.com"
+msgstr ""
